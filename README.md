@@ -5,4 +5,4 @@
 
 ### Список лабораторных работ
 
-- [Git, Markdown](https://github.com/ZONT3/study_2022_isec/tree/master/lab01)
+- [Git, Markdown](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab1)
