@@ -7,3 +7,4 @@
 
 - [Git, Markdown](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab1)
 - [Расширенные атрибуты доступа](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab4)
+- [Исследование влияния дополнительных атрибутов](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab5)
