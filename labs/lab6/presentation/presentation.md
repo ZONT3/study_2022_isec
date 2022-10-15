@@ -32,21 +32,6 @@ header-includes:
 Развить навыки администрирования ОС Linux. Получить первое практическое знакомство с технологией SELinux.
 Проверить работу SELinx на практике совместно с веб-сервером Apache
 
-## А
-
-:::::::::::::: {.columns align=center}
-::: {.column width="40%"}
-
-- Написана программа для проверки ID
-
-:::
-::: {.column width="60%"}
-
-![](image/img3.png)
-
-:::
-::::::::::::::
-
 ## Enforcing, targeted
 
 ![Проверка enforce и SELinux](image/20221015203105.png){ #fig:001 width=70% }
