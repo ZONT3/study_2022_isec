@@ -50,7 +50,7 @@ biblatexoptions:
   - hyperref=auto
   - language=auto
   - autolang=other*
-  - $C_i$testyle=gost-numeric
+  - citestyle=gost-numeric
 ## Pandoc-crossref LaTeX customization
 figureTitle: "Рис."
 tableTitle: "Таблица"
