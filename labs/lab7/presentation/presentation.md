@@ -62,37 +62,7 @@ D8 F2 E8 F0 EB E8 F6 20 2D 20 C2 FB 20 C1 EE EB E2 E0 ED 21
 :::::::::::::: {.columns align=center}
 ::: {.column width="50%"}
 
-```cpp
-int main(int argc, const char* argv[]) {
-    seq_t seq;
-    switch (argc) {
-        case 1: {
-            cout << "Sequence length:";
-            int len;
-            cin >> len;
-            cout << "Put your sequence here:" << endl;
-            seq = readSeq(len);
-            cout << seqToStr(seq) << endl;
-            break;
-        }
-        case 2: {
-            seq = strToSeq(argv[1]);
-            cout << stringifySeq(seq) << endl;
-            break;
-        }
-        default:
-            cerr << "Can take only 1 or 0 arguments" << endl;
-            return 1;
-    }
-
-    cout << "Put your key here (" << seq.size() << " bytes):" << endl;
-    const seq_t& key = readSeq(seq.size());
-    cout << stringifySeq(apply_key(seq, key)) << endl;
-    cout << seqToStr(apply_key(seq, key)) << endl;
-
-    return 0;
-}
-```
+![](image/20221022180204.png){ height=100% }
 
 :::
 ::: {.column width="50%"}
