@@ -10,3 +10,4 @@
 - [Исследование влияния дополнительных атрибутов](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab5)
 - [Мандатное разграничение прав в Linux](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab6)
 - [Элементы криптографии. Однократное гаммирование](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab7)
+- [Шифрование (кодирование) различных исходных текстов одним ключом](https://github.com/ZONT3/study_2022_isec/tree/master/labs/lab8)
